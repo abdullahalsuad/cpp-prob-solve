@@ -14,6 +14,7 @@ int main()
 
     int t;
     cin >> t;
+    // test case
     for (int tc = 0; tc < t; tc++)
     {
         Student highstdent;
